@@ -1,7 +1,7 @@
 # 示例说明
-1.已开放、测试通过：Triangle、Model Viewer、Area Lights、Audio、Box2D、2D Fluid Simulation、3D Fluid Simulation、Ray Tracing、Octree、ImGui、Animated GIF、Motion blur；
-2.编译未通过的示例：Bullet Physics、DART Physics；
-3.还有其他示例未测试，但估计问题不大；
+1. 已开放、测试通过：Triangle、Model Viewer、Area Lights、Audio、Box2D、2D Fluid Simulation、3D Fluid Simulation、Ray Tracing、Octree、ImGui、Animated GIF、Motion blur；
+2. 编译未通过的示例：Bullet Physics、DART Physics；
+3. 还有其他示例未测试，但估计问题不大；
 
 # 生成vcpkg可执行文件
 
